@@ -1,4 +1,4 @@
-# MARRYMATCH - 相亲评分系统
+# MARRYMATCH - 刻薄的客观评分系统
 
 ## 项目概述
 
